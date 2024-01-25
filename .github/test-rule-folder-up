@@ -22,7 +22,7 @@
                 "queryFrequency": "PT5H",
                 "queryPeriod": "PT5H",
                 "triggerOperator": "GreaterThan",
-                "triggerThreshold": 0,
+                "triggerThreshold": 1,
                 "suppressionDuration": "PT5H",
                 "suppressionEnabled": false,
                 "startTimeUtc": null,
